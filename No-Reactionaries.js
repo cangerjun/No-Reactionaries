@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         屏蔽GitHub上反动内容的仓库
 // @namespace    http://tampermonkey.net/
-// @version      1.5
+// @version      1.5.2
 // @description  由于直播时查看github搜索正常内容时出现反动内容而被封直播间，特此屏蔽GitHub上反动内容的仓库。
 // @author       cangerjun
 // @match        https://github.com/*  
