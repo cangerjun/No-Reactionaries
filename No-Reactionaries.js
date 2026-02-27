@@ -39,7 +39,7 @@
         const keywordRegex = createKeywordRegex(keywords);
 
         // 获取目标div元素
-        const targetDivs = document.querySelectorAll('[class*="Box-sc-62in7e-0"]');
+        const targetDivs = document.querySelectorAll('[class*="Box-sc-62in7e-0 fXzjPH"]');
 
         // 遍历每个目标div
         targetDivs.forEach(targetDiv => {
