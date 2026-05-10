@@ -452,4 +452,6 @@
         'Ifem2BXvz4N4gh1gGn0bkR3Lp'
         'R7w726fYrfritM7zPJCO',// 以上是那些用户名
         "卐",
-        "PCL" // 最重要的一个
+        "PCL",// 最重要的一个
+        "邓小",
+        "万岁"
